@@ -1,3 +1,8 @@
-im eli
+hi, im eli :3
 
-check out my awesome website https://elisttm.space/
+im a hobbyist full-stack web dev and sysadmin that primarily works with python (for now)
+
+i have a lot more info available on my website, link below
+
+
+#### [elisttm.space](https://elisttm.space/)
